@@ -1,0 +1,4 @@
+We added a function so when the apm --version command is called it would also display the current atom version.
+Branch: atom-version
+Implementation: getAtomVersion function
+File: src/apm-cli.coffee
